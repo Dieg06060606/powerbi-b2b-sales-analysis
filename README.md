@@ -20,14 +20,16 @@ Geographic analysis of profit by city
 
 ## Dashboards
 
-📊 Commercial Performance
+## 📊 Commercial Performance
+---
 ![Desempenho Comercial](<screenshots/Desempenho Comercial.png>)
 
-👥 Profitability by Customer Profile
+## 👥 Profitability by Customer Profile
+---
 ![Perfil de Cliente](<screenshots/Análise de Rentabilidade por Perfil de Cliente.png>)
 
-🌎 
-Geographic Profitability Analysis
+## 🌎 Geographic Profitability Analysis
+---
 ![Geografia](<screenshots/Análise Geográfica de Rentabilidade.png>)
 
 ---
