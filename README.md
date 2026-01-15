@@ -1,5 +1,12 @@
 # Sales Analysis – B2B Wholesale
+Desempenho Comercial
+![Desempenho Comercial](<screenshots/Desempenho Comercial.png>)
 
+Rentabilidade por Perfil de Cliente
+![Perfil de Cliente](<screenshots/Análise de Rentabilidade por Perfil de Cliente.png>)
+
+Análise Geográfica de Rentabilidade
+![Geografia](<screenshots/Análise Geográfica de Rentabilidade.png>)
 Business Intelligence project developed in Power BI, focused on analyzing B2B sales with high average ticket size, stable margins, and strong value concentration.
 
 ## Objective
@@ -11,17 +18,6 @@ Analyze financial performance, profit concentration, most profitable customer pr
 - Most profitable customer profiles
 - Relationship between margin and profit per customer (scatter plot)
 - Geographic analysis of profit by city
-
-## Dashboards
-## 📊 Desempenho Comercial
-![Desempenho Comercial](<screenshots/Desempenho Comercial.png>)
-
-## 👥 Rentabilidade por Perfil de Cliente
-![Perfil de Cliente](<screenshots/Análise de Rentabilidade por Perfil de Cliente.png>)
-
-## 🌎 Análise Geográfica de Rentabilidade
-![Geografia](<screenshots/Análise Geográfica de Rentabilidade.png>)
-
 
 ## Tools and Techniques
 - Power BI Desktop
