@@ -1,2 +1,23 @@
-# powerbi-b2b-sales-analysis
- A BI project focused on B2B sales analysis, exploring profitability, value concentration, and customer profiles through financial indicators, Pareto analysis, dispersion analysis, and geographic distribution.
+# Sales Analysis – B2B Wholesale
+
+Business Intelligence project developed in Power BI, focused on analyzing B2B sales with high average ticket size, stable margins, and strong value concentration.
+
+## Objective
+Analyze financial performance, profit concentration, most profitable customer profiles, and geographic distribution of results.
+
+## Main Analyses
+- Financial KPIs (Revenue, Profit, Margin, Average Ticket Size)
+- Pareto analysis by category and brand
+- Most profitable customer profiles
+- Relationship between margin and profit per customer (scatter plot)
+- Geographic analysis of profit by city
+
+## Tools and Techniques
+- Power BI Desktop
+- Star schema modeling
+- DAX measures
+- YoY analysis
+- Pareto chart
+- Geographic visualizations
+
+## Notes Fictitious dataset with real characteristics of B2B operations.
