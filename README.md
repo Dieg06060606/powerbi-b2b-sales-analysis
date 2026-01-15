@@ -36,9 +36,15 @@ Geographic analysis of profit by city
 
 ## Tools and Techniques
 Power BI Desktop
+
 Star schema modeling
+
 DAX measures
+
 YoY analysis
+
 Pareto chart
+
 Geographic visualizations
+
 Notes Fictitious dataset with real characteristics of B2B operations.
