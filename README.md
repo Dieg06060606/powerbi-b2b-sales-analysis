@@ -1,10 +1,10 @@
 
-## Sales Analysis – B2B Wholesale
+# Sales Analysis – B2B Wholesale
 Business Intelligence project developed in Power BI, focused on analyzing B2B sales with high average ticket size, stable margins, and strong value concentration.
 
 ---
 
-# Objective
+## Objective
 Analyze financial performance, profit concentration, most profitable customer profiles, and geographic distribution of results.
 
 ---
@@ -18,7 +18,7 @@ Geographic analysis of profit by city
 
 ---
 
-# Dashboards
+## Dashboards
 
 📊 Commercial Performance
 ![Desempenho Comercial](<screenshots/Desempenho Comercial.png>)
@@ -32,7 +32,7 @@ Geographic Profitability Analysis
 
 ---
 
-# Tools and Techniques
+## Tools and Techniques
 Power BI Desktop
 Star schema modeling
 DAX measures
